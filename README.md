@@ -36,8 +36,8 @@ In Google BigQuery, I performed the following tasks:
 <p>
 In SQL, I also performed calculation of sums and percentages, cast dates to day of the week strings, and organized datetimes into categories. After all oricesses were completed, I exported the new tables to CSVs for visualization.</p>
 
-[See SQL analysis]()
+[See SQL analysis](https://github.com/almostelle/Bellabeat-Case-Study/blob/f7f910188f0ec7012c010b6fbb41db9f23c33d8c/SQLprocesses.sql)
 
 ## Share
 Using Tableau, I imported the clean, organized, and formatted tables to tell a clear story about the trends in fitness data in an interactive dashboard. This presentation also gives recommendations based on the conclusions drawn from the data.<p>
-[See Tableau Dashboard]() </p>
+[See Tableau Dashboard](https://github.com/almostelle/Bellabeat-Case-Study/blob/f7f910188f0ec7012c010b6fbb41db9f23c33d8c/TableauDashboard.md) </p>
